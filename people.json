@@ -1,0 +1,39 @@
+{
+	"people":[
+		{
+			"firstName":"Bob",
+			"lastName":"Builder",
+			"dateOfBirth":"",
+			"avatarImage":"",
+			"role":"Builder"
+		},
+		{
+			"firstName":"Terry",
+			"lastName":"Testperson",
+			"dateOfBirth":"",
+			"avatarImage":"",
+			"role":"Bricklayer"
+		},
+		{
+			"firstName":"The",
+			"lastName":"Dude",
+			"dateOfBirth":"",
+			"avatarImage":"",
+			"role":"Dude"
+		},
+		{
+			"firstName":"Ozzy",
+			"lastName":"Osbourne",
+			"dateOfBirth":"",
+			"avatarImage":"",
+			"role":"Childrens party entertainer"
+		},
+		{
+			"firstName":"Donald",
+			"lastName":"Trump",
+			"dateOfBirth":"",
+			"avatarImage":"",
+			"role":"Poet"
+		},
+	]
+}
