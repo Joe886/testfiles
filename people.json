@@ -3,36 +3,36 @@
 		{
 			"firstName":"Bob",
 			"lastName":"Builder",
-			"dateOfBirth":"",
-			"avatarImage":"",
+			"dateOfBirth":"1988-09-08",
+			"avatarImage":"https://raw.githubusercontent.com/Joe886/testfiles/master/avatar_1.png",
 			"role":"Builder"
 		},
 		{
 			"firstName":"Terry",
 			"lastName":"Testperson",
-			"dateOfBirth":"",
-			"avatarImage":"",
+			"dateOfBirth":"1950-01-09",
+			"avatarImage":"https://raw.githubusercontent.com/Joe886/testfiles/master/avatar_2.png",
 			"role":"Bricklayer"
 		},
 		{
 			"firstName":"The",
 			"lastName":"Dude",
-			"dateOfBirth":"",
-			"avatarImage":"",
+			"dateOfBirth":"2000-11-24",
+			"avatarImage":"https://raw.githubusercontent.com/Joe886/testfiles/master/avatar_3.png",
 			"role":"Dude"
 		},
 		{
 			"firstName":"Ozzy",
 			"lastName":"Osbourne",
-			"dateOfBirth":"",
-			"avatarImage":"",
+			"dateOfBirth":"1960-10-23",
+			"avatarImage":"https://raw.githubusercontent.com/Joe886/testfiles/master/avatar_4.png",
 			"role":"Childrens party entertainer"
 		},
 		{
 			"firstName":"Donald",
 			"lastName":"Trump",
-			"dateOfBirth":"",
-			"avatarImage":"",
+			"dateOfBirth":"1875-03-05",
+			"avatarImage":"https://raw.githubusercontent.com/Joe886/testfiles/master/avatar_5.png",
 			"role":"Poet"
 		}
 	]
